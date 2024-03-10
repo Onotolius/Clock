@@ -14,7 +14,7 @@ body {
   height: 100vh;
 }
 #clock {
-  font-family: monospace;
+  font-family: "Courier New", Courier, monospace;
   font-size: 5.5rem;
   font-weight: bold;
   text-align: center;
